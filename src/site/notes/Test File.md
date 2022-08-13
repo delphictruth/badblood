@@ -13,6 +13,9 @@
 
 ##### Heading 5
 
+---
+[[link|link]] 
+
 **Bold**
 *Italic*
 ~~Strikethrough~~
